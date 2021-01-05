@@ -1,0 +1,12 @@
+Q1
+public class ReverseString {
+	public static void main(String[] args) {
+      //enter input string; for example "Hello World"
+      String s = "Hello World";
+ 
+      StringBuffer sb = new StringBuffer(s);
+      System.out.println(sb.reverse());           
+	}
+}
+
+Q2
